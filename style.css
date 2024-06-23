@@ -1,0 +1,12 @@
+.liDone {
+	color: LightSlateGray;
+	text-decoration: line-through;
+}
+
+.li {
+	outline: none;
+}
+
+input {
+	width: 60vw;
+}
